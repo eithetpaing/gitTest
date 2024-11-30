@@ -1,0 +1,10 @@
+create repository in git
+create folder
+folder open with vs code
+open terminal
+
+1-- git init
+2-- git remote add origin github_url
+3-- git add .
+4-- git commit -m "message write in this"
+5-- git push origin main
