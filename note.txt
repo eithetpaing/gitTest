@@ -46,6 +46,7 @@ adding blog to main
 first in git click compare and pull request 
 write title
 crete pull request 
-merge etc
+merge pull request
+confirm merge
 
 git clone (git link.....)
